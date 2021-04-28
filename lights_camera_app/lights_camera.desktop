@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Encoding=UTF-8
+#Name=Lights & Camera control
+Comment=Runs the lights and camera control script
+Exec=python3 /home/pi/pulcea/pulceaLCU/lights_camera_app.py
+Terminal=true
+Name[en_US]=Lights & Camera control
